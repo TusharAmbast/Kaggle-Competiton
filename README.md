@@ -1,1 +1,1 @@
-Notebook for kaggle Competition
+Notebooks for assessment of Summer Anayltics
